@@ -1,0 +1,26 @@
+## Jupyter notebooks for analyzing and generating figures for this manuscipt
+
+- Figure 1: `Manuscript_pore_radius.ipynb`
+- Figure 2: `Manuscript_comp_ephys.ipynb`
+- Figure 3: `Manuscript_AWH_ION.ipynb`
+- Figure 4: `Manuscript_bilayer_thickness.ipynb`, `Manuscript_cg.ipynb`
+- Figure 5: `Manuscript_cg.ipynb`
+- Figure 6: `Manuscript_cg_PNU.ipynb`
+- ~~Figure 7~~: VMD
+- Figure S1: `Manuscript_electric_field.ipynb`
+- Figure S1: `Manuscript_electric_field_new.ipynb`
+- Figure S2: `Manuscript_ION_DENSITY.ipynb`
+- Figure S3: `Manuscript_AWH_ION.ipynb`
+- Figure S4: `Manuscript_AWH_ION.ipynb`
+- Figure S5: `Manuscript_ion_parameter.ipynb`
+- Figure S6: `Manuscript_AWH_ION.ipynb`
+- Figure S7: `Manuscript_AWH_ION.ipynb`
+- Figure S8: `Manuscript_bilayer_thickness.ipynb`
+- Figure S9:  `Manuscript_cg.ipynb`
+- ~~Figure S10~~: VMD
+- Figure S11: `Manuscript_PNU_parameter.ipynb`
+- ~~Figure S12~~: VMD
+- ~~Figure S13~~: VMD
+- Figure S14: `Manuscript_cg_PNU.ipynb`
+- ~~Video S15~~: VMD
+- ~~Figure S16~~: VMD
